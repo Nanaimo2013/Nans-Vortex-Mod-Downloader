@@ -1,0 +1,4 @@
+pyautogui
+colorama
+pillow
+tkinter
