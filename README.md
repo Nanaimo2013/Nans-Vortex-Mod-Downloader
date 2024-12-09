@@ -5,7 +5,7 @@
 [![GitHub license](https://img.shields.io/github/license/Nanaimo2013/Nans-Vortex-Mod-Downloader?style=for-the-badge&color=blue)](https://github.com/Nanaimo2013/Nans-Vortex-Mod-Downloader/blob/main/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/Nanaimo2013/Nans-Vortex-Mod-Downloader?style=for-the-badge&color=red)](https://github.com/Nanaimo2013/Nans-Vortex-Mod-Downloader/issues)
 [![GitHub stars](https://img.shields.io/github/stars/Nanaimo2013/Nans-Vortex-Mod-Downloader?style=for-the-badge&color=yellow)](https://github.com/Nanaimo2013/Nans-Vortex-Mod-Downloader/stargazers)
-[![Downloads](https://img.shields.io/github/downloads/Nanaimo2013/Nans-Vortex-Mod-Downloader/total?style=for-the-badge&color=blue)](https://github.com/Nanaimo2013/Nans-Vortex-Mod-Downloader/releases)
+[![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Nanaimo2013/Nans-Vortex-Mod-Downloader/total?style=for-the-badge&color=blue)](https://github.com/Nanaimo2013/Nans-Vortex-Mod-Downloader/releases)
 [![Contributors](https://img.shields.io/github/contributors/Nanaimo2013/Nans-Vortex-Mod-Downloader?style=for-the-badge&color=orange)](https://github.com/Nanaimo2013/Nans-Vortex-Mod-Downloader/graphs/contributors)
 [![Code Size](https://img.shields.io/github/languages/code-size/Nanaimo2013/Nans-Vortex-Mod-Downloader?style=for-the-badge&color=blue)](https://github.com/Nanaimo2013/Nans-Vortex-Mod-Downloader)
 [![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen?style=for-the-badge&logo=github)](https://github.com/Nanaimo2013/Nans-Vortex-Mod-Downloader)
