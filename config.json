@@ -1,0 +1,16 @@
+{
+    "regions": {
+        "Download Button": {
+            "left": 794,
+            "top": 380,
+            "width": 158,
+            "height": 176
+        },
+        "Slow Download Button": {
+            "left": 1387,
+            "top": 590,
+            "width": 243,
+            "height": 297
+        }
+    }
+}
