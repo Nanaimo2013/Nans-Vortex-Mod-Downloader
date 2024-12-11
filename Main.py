@@ -28,6 +28,8 @@ def main():
         success = downloader.process_mod()
         if not success:
             logger.warning(f"Failed to process mod {mod_number + 1}. Skipping.")
+        else:
+            logger.info(f"Successfully processed mod {mod_number + 1}.")
         time.sleep(1)  # Optional: Add a short delay between mods
 
 if __name__ == "__main__":
